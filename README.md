@@ -9,8 +9,8 @@ Ela possui rotas para:
 
 Todos os usuários do banco devem ser inseridos no formato JSON com a seguinte formatação:
 {
-    "name":
-    "username":
+    "name":,
+    "username":,
     "password":
 }
 
